@@ -1,2 +1,2 @@
-# nudge
+# Nudge
 The thoughtful reminder app
